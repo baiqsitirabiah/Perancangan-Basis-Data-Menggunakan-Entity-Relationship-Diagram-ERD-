@@ -1,0 +1,17 @@
+Buka browser
+Buka aplikasi draw.io/diagrams.net
+Apabila muncul pilihan lokasi penyimpanan, pilih lokasi yang sesuai.
+Buat Diagram Baru
+Pilih Diagram Hubungan Entitas lalu buat
+Maka akan tampil dashboard sebagai lembar kerja.
+Pengenalan area kerja draw.io
+Mengaktifkan perpustakaan Entity Relationship
+Membaca kebutuhan
+Mengidentifikasi entitas
+Mengidentifikasi atribut dari setiap entitas. Dan menentukan atribut yang dijadikan identifier-nya.
+Membuat entitas
+Agar ERD mudah dibaca, susun entitas dengan tata letak
+Memasukkan atribut pada setiap entitas
+Menghubungkan entitas dengan atributnya
+Membuat relationship diantara setiap entitas
+Membuat dan menentukan kardinalitas antara setiap entitas
